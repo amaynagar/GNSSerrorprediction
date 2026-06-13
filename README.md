@@ -198,16 +198,4 @@ GNSSerrorprediction/
 
 ---
 
-## Author
 
-**Amay Nagar**  
-B.Tech Computer Science (AI/ML)  
-Manipal University Jaipur
-
-GitHub: https://github.com/amaynagar
-
----
-
-## License
-
-This project is intended for educational and research purposes.
